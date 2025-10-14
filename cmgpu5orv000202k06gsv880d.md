@@ -2,7 +2,7 @@
 title: "The $1M Plan: Why I'm Betting Everything on Rust and Trading"
 datePublished: Tue Oct 14 2025 00:40:35 GMT+0000 (Coordinated Universal Time)
 cuid: cmgpu5orv000202k06gsv880d
-slug: the-1m-plan-why-im-betting-everything-on-rust-and-trading
+slug: why-im-betting-everything-on-rust-and-trading
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/RP6Ba_6U154/upload/de0bec33d0caaf992f15ab769e124bfa.jpeg
 tags: web3, systems-programming, rust-programming
 
