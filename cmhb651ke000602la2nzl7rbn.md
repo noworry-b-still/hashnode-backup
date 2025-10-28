@@ -1,5 +1,6 @@
 ---
 title: "The Plan: My Rust Journey Through Markets and Web3 Systems"
+seoTitle: "Rust, Markets, and Web3: A Personal Journey"
 seoDescription: "Discover how I embarked on a month-long journey to learn Rust and explore market infrastructure and blockchain systems"
 datePublished: Mon Oct 13 2025 07:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cmhb651ke000602la2nzl7rbn
